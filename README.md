@@ -6,7 +6,7 @@ I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) throug
 
 ### What I'm working on
 
-- **[Bravyn](https://bravyn.ai)** - AI leadership coaching platform. Built Victoria, a full-screen expressive avatar running at conversational latency on mobile. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
+- **[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
 - **[RefTracker](https://github.com/dznicol/reftracker)** - computer vision + Gemini pipeline that tracks rugby referees and explains their decisions. YOLOv8, BoTSORT/CLIP-ReID, OpenCV, Supervision
 
 ### Research
