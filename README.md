@@ -6,8 +6,22 @@ I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) throug
 
 ### What I'm working on
 
-- **[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
-- **[RefTracker](https://github.com/dznicol/reftracker)** - computer vision + Gemini pipeline that tracks rugby referees and explains their decisions. YOLOv8, BoTSORT/CLIP-ReID, OpenCV, Supervision
+**[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
+
+<p>
+  <img src="images/bravyn-victoria-listening.png" alt="Bravyn avatar coaching — listening for the user during a live voice session" width="240" />
+  <img src="images/bravyn-victoria-speaking.png" alt="Bravyn avatar coaching — avatar speaking during a live voice session" width="240" />
+</p>
+
+<sub>Real-time avatar coaching: on-device speech recognition and voice synthesis drive a full-screen avatar through the listening / speaking loop.</sub>
+
+**[RefTracker](https://github.com/dznicol/reftracker)** - computer vision + Gemini pipeline that tracks rugby referees and explains their decisions. YOLOv8, BoTSORT/CLIP-ReID, OpenCV, Supervision
+
+<p>
+  <img src="images/reftracker-tracking.gif" alt="Colour-first referee tracking shown at three zoom levels: wide, match area, and close-up" width="480" />
+</p>
+
+<sub>One colour-first tracking pass, rendered at three zoom levels — the referee is ~40px tall in the original 1920×1080 footage.</sub>
 
 ### Research
 
