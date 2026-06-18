@@ -6,7 +6,7 @@ I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) throug
 
 ### What I'm working on
 
-**[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
+**[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, on-device speech recognition and synthesis (native modules), Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
 
 <p align="center">
   <img src="images/bravyn-coaching-recognition.png" alt="Bravyn avatar coaching — recognised speech rendered live in the voice toolbar" width="240" />
