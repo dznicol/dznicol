@@ -9,11 +9,11 @@ I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) throug
 **[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, voice synthesis, Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
 
 <p align="center">
-  <img src="images/bravyn-victoria-listening.png" alt="Bravyn avatar coaching — listening for the user during a live voice session" width="240" />
-  <img src="images/bravyn-victoria-speaking.png" alt="Bravyn avatar coaching — avatar speaking during a live voice session" width="240" />
+  <img src="images/bravyn-coaching-transcript.png" alt="Bravyn avatar coaching — live transcript of a coaching conversation over the full-screen avatar" width="240" />
+  <img src="images/bravyn-coaching-recognition.png" alt="Bravyn avatar coaching — recognised speech rendered live in the voice toolbar" width="240" />
 </p>
 
-<p align="center"><sub>Real-time avatar coaching: on-device speech recognition and voice synthesis drive a full-screen avatar through the listening / speaking loop.</sub></p>
+<p align="center"><sub>Real-time avatar coaching: on-device speech recognition and voice synthesis drive a full-screen avatar, with the live transcript over the scene and recognised speech surfaced in the voice bar.</sub></p>
 
 **[RefTracker](https://github.com/dznicol/reftracker)** - computer vision + Gemini pipeline that tracks rugby referees and explains their decisions. YOLOv8, BoTSORT/CLIP-ReID, OpenCV, Supervision
 
