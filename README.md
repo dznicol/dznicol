@@ -29,11 +29,9 @@ I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) throug
 
 ### Areas of focus
 
-**AI/ML** - LLM application development, multi-agent orchestration, RAG, context engineering, evaluation and safety pipelines, conversational AI, computer vision
-
-**Infrastructure** - AWS, Terraform, Docker, Kubernetes, IP networking, video delivery
-
-**Product** - 0-to-1 product architecture, UX-driven development, full-stack delivery
+- **AI/ML** - LLM application development, multi-agent orchestration, RAG, context engineering, evaluation and safety pipelines, conversational AI, computer vision
+- **Infrastructure** - AWS, Terraform, Docker, Kubernetes, IP networking, video delivery
+- **Product** - 0-to-1 product architecture, UX-driven development, full-stack delivery
 
 ### Connect
 
