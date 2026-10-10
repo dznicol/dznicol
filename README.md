@@ -1,19 +1,10 @@
 # David Nicol
 
-CTO & Technical Lead at [Bravyn](https://bravyn.ai) - building AI-powered leadership coaching. Hands-on tech leader specialising in conversational AI, multi-agent orchestration, RAG architectures, and context engineering.
+Hands-on tech leader specialising in conversational AI, multi-agent orchestration, RAG architectures, and context engineering.
 
 I build things end-to-end: from infrastructure (AWS/Terraform/Kubernetes) through backend systems to AI pipelines and user experience. Career spanning fintech, video delivery (local and broadcast IP), e-commerce, and now AI/ML.
 
 ### What I'm working on
-
-**[Bravyn](https://bravyn.ai)** - AI leadership coaching platform with full-screen avatar-based coaching on iOS and Android. React Native, on-device speech recognition and synthesis (native modules), Python/FastAPI, multi-agent orchestration, streaming inference, LLM observability, Ruby on Rails, AWS
-
-<p align="center">
-  <img src="images/bravyn-coaching-recognition.png" alt="Bravyn avatar coaching — recognised speech rendered live in the voice toolbar" width="240" />
-  <img src="images/bravyn-coaching-transcript.png" alt="Bravyn avatar coaching — live transcript of a coaching conversation over the full-screen avatar" width="240" />
-</p>
-
-<p align="center"><sub>Real-time avatar coaching: on-device speech recognition and voice synthesis drive a full-screen avatar, with the live transcript over the scene and recognised speech surfaced in the voice bar.</sub></p>
 
 **[RefTracker](https://github.com/dznicol/reftracker)** - computer vision + Gemini pipeline that tracks rugby referees and explains their decisions. YOLOv8 (detection, pose, segmentation), BoTSORT/CLIP-ReID, OpenCV, Gemini
 
@@ -28,10 +19,6 @@ YOLOv8 person detection picks the referee by their unique kit (shirt) colour eve
 </p>
 
 Next phase: logging every referee decision from pose. YOLOv8-pose runs on a ref-centred crop of each tracked frame, producing a 17-keypoint skeleton. Frames where an arm is raised cluster on the hand-labelled penalty and free kick, the first step towards a signal classifier and a labelled rugby referee signal dataset.
-
-### Research
-
-- **Effective Conversational Closure in Supportive Dialogue** (with Ruyi Wang et al.) - pre-publication, targeting EMNLP 2026 Industry Track. A four-dimensional latent-space classifier that steers a coaching model at inference time, addressing maintenance bias and termination inertia. Production system outperforms baseline models across 85% of real sessions.
 
 ### Areas of focus
 
